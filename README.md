@@ -1,7 +1,10 @@
 # Travel Journal
 
-Application dédiée au voyage :sunny: réalisée à partir d'une maquette Figma 🎨 \
-Affichage des données (images, liens Google Maps, dates et informations) de manière dynamique ✨
+Application dédiée au voyage :sunny: réalisée à partir d'une maquette Figma 🎨
+  
+Affichage des données (images, liens Google Maps, dates et informations) de manière dynamique ✨  
+  
+  https://meriembouka.github.io/travel-journal/
 
 # Getting Started with Create React App
 
