@@ -1,0 +1,46 @@
+.card{
+    display: flex;
+    border-bottom: 1px solid #F5F5F5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-img{
+width: 125px;
+height: 168px;
+border-radius: 7px;
+object-fit: cover;
+
+}
+
+.informations{
+    align-self: center;
+    padding-left: 20px;
+}
+
+.maps-icon{
+width: 7px;
+margin-right: 4px;
+}
+
+.card-location, .card-maps, .card-description, .card-date{
+    font-size: 11px;
+}
+
+.card-location{
+line-height: 12px;
+letter-spacing: 0.17em;
+padding-right: 12px;
+}
+
+.card-title{
+    margin-top: 3px;
+}
+
+.card-date{
+    font-weight: 700;
+
+}
+a{
+    color: #918E9B;
+}

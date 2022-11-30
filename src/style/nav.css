@@ -1,0 +1,20 @@
+nav{
+    height: 55px;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo{
+    width: 25px;
+    height: 25px;
+}
+.Compagny{
+    color: white;
+    font-weight: 500;
+    padding-left: 10px;
+    line-height: 18px;
+letter-spacing: -0.075em;
+font-size: 15px;
+}
