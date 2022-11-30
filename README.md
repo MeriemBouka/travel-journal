@@ -1,3 +1,8 @@
+# Travel Journal
+
+Application dédiée au voyage :sunny: réalisée à partir d'une maquette Figma 🎨 \
+Affichage des données (images, liens Google Maps, dates et informations) de manière dynamique ✨
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
